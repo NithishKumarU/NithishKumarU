@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @NithishKumarU
 - 👀 I’m interested in Programming, Machine Learning
-- 🌱 I’m currently learning ...
 
 
 <!---
